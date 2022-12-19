@@ -4,7 +4,7 @@
  <a href="#about">Sobre</a> |
  <a href="#entities">Entidades</a> |
  <a href="#routes">Rotas</a> |
- <a href="#technologies">Tecnologias</a>
+ <a href="#technologies">Tecnologias</a> |
  <a href="#installation">Como executar</a>
 </div>
 
