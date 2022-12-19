@@ -2,10 +2,10 @@
 
 <div align="center">
  <a href="#about">Sobre</a> |
- <a href="#installation">Como executar</a> |
  <a href="#entities">Entidades</a> |
  <a href="#routes">Rotas</a> |
  <a href="#technologies">Tecnologias</a>
+ <a href="#installation">Como executar</a>
 </div>
 
 <h2 id="about">💡&nbsp; Sobre o projeto</h2>
