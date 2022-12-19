@@ -40,7 +40,7 @@
       "parentId": null,
       "modified": 1670435223151,
       "created": 1670435223151,
-      "name": "Ignite Lab 04 Node.js",
+      "name": "Notification Service",
       "description": "",
       "scope": "collection",
       "_type": "workspace"
@@ -187,7 +187,7 @@
       "parentId": "wrk_8142e10c198449539f8199e05e4c6885",
       "modified": 1670435223156,
       "created": 1670435223156,
-      "fileName": "Ignite Lab 04 Node.js",
+      "fileName": "Notification Service",
       "contents": "",
       "contentType": "yaml",
       "_type": "api_spec"
