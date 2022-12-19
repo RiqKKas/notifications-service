@@ -34,12 +34,12 @@ Notification {
 
 <h2 id="routes">📍&nbsp; Rotas </h2>
 
-- GET /notifications/count/from/:recipientId - retorna a quantidade de notificações para um recipiente presentes no banco
-- GET /notifications/from/:recipientId - retorna todas as notificações para um recipiente presentes no banco
+- GET /notifications/count/from/:recipientId - retorna a quantidade de notificações enviadas para um recipiente
+- GET /notifications/from/:recipientId - retorna todas as notificações enviadas para um recipiente
 - POST /notifications - cria uma notificaçao para um determinado recipiente
-- PATCH /notifications/:id/cancel - cancela uma notificação para um recipiente
-- PATCH /notifications/:id/read - marca uma notificação como lida no banco
-- PATCH /notifications/:id/unread - marca uma notificação como não lida no banco
+- PATCH /notifications/:id/cancel - cancela uma notificação
+- PATCH /notifications/:id/read - marca uma notificação como lida
+- PATCH /notifications/:id/unread - marca uma notificação como não lida
 
 ---
 
@@ -55,10 +55,15 @@ Notification {
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️ [NodeJs](https://nodejs.org/en/)
+
 ✔️ [TypeScript](https://www.typescriptlang.org/)
+
 ✔️ [NestJs](https://nestjs.com/)
+
 ✔️ [SQLite](https://sqlite.com/index.html)
+
 ✔️ [Prisma](https://www.prisma.io/)
+
 ✔️ [Jest](https://jestjs.io/)
 
 ---
