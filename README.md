@@ -74,7 +74,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 # Clone o repositório
 git clone https://github.com/the-riquelme/notifications-service.git
 
-# Entre da pasta da aplicação
+# Entre na pasta da aplicação
 cd notifications-service
 
 # Instale as dependẽncias do projeto
