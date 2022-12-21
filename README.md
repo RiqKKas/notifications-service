@@ -5,7 +5,8 @@
  <a href="#entities">Entidades</a> |
  <a href="#routes">Rotas</a> |
  <a href="#technologies">Tecnologias</a> |
- <a href="#installation">Como executar</a>
+ <a href="#installation">Como executar</a> |
+ <a href="#author">Desenvolvedor</a>
 </div>
 
 <h2 id="about">💡&nbsp; Sobre o projeto</h2>
@@ -85,3 +86,7 @@ npm run start
 
 # Acesse o servidor pelas rotas a partir de http://localhost:3000
 ```
+
+<h2 id="author">👨‍💻&nbsp;Desenvolvedor</h2>
+
+- [Riquelme Damião Silva](https://github.com/the-riquelme)
