@@ -89,4 +89,4 @@ npm run start
 
 <h2 id="author">👨‍💻&nbsp;Desenvolvedor</h2>
 
-- [Riquelme Damião Silva](https://github.com/the-riquelme)
+👤 [Riquelme Damião Silva](https://github.com/the-riquelme)
